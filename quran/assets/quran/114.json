@@ -1,0 +1,53 @@
+{
+    "name": "الناس",
+    "verses": [
+        {
+            "id": "1",
+            "arabic": "قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+            "english": "Say I seek refuge in the Lord of mankind",
+            "urdu": "کہو، میں پناہ مانگتا ہوں انسانوں کے رب",
+            "chinese": "你说：“我求庇于世人的养主，",
+            "turkey": "De ki: İnsanlardan ve cinlerden ve insanların gönüllerine vesvese veren o sinsi vesvesecinin şerrinden insanların Tanrısı insanların Hükümranı ve insanların Rabbi olan Allah'a sığınırım"
+        },
+        {
+            "id": "2",
+            "arabic": "مَلِكِ ٱلنَّاسِ",
+            "english": "The Sovereign of mankind",
+            "urdu": "انسانوں کے بادشاہ",
+            "chinese": "世人的君主，",
+            "turkey": "De ki: İnsanlardan ve cinlerden ve insanların gönüllerine vesvese veren o sinsi vesvesecinin şerrinden insanların Tanrısı insanların Hükümranı ve insanların Rabbi olan Allah'a sığınırım"
+        },
+        {
+            "id": "3",
+            "arabic": "إِلَٰهِ ٱلنَّاسِ",
+            "english": "The God of mankind",
+            "urdu": "انسانوں کے حقیقی معبود کی",
+            "chinese": "世人的主宰，",
+            "turkey": "De ki: İnsanlardan ve cinlerden ve insanların gönüllerine vesvese veren o sinsi vesvesecinin şerrinden insanların Tanrısı insanların Hükümranı ve insanların Rabbi olan Allah'a sığınırım"
+        },
+        {
+            "id": "4",
+            "arabic": "مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ",
+            "english": "From the evil of the retreating whisperer",
+            "urdu": "اُس وسوسہ ڈالنے والے کے شر سے جو بار بار پلٹ کر آتا ہے",
+            "chinese": "免遭潜伏的教唆者的毒害，",
+            "turkey": "De ki: İnsanlardan ve cinlerden ve insanların gönüllerine vesvese veren o sinsi vesvesecinin şerrinden insanların Tanrısı insanların Hükümranı ve insanların Rabbi olan Allah'a sığınırım"
+        },
+        {
+            "id": "5",
+            "arabic": "ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ",
+            "english": "Who whispers [evil] into the breasts of mankind",
+            "urdu": "جو لوگوں کے دلوں میں وسوسے ڈالتا ہے",
+            "chinese": "他在世人的胸中教唆，",
+            "turkey": "De ki: İnsanlardan ve cinlerden ve insanların gönüllerine vesvese veren o sinsi vesvesecinin şerrinden insanların Tanrısı insanların Hükümranı ve insanların Rabbi olan Allah'a sığınırım"
+        },
+        {
+            "id": "6",
+            "arabic": "مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ",
+            "english": "From among the jinn and mankind",
+            "urdu": "خواہ وہ جنوں میں سے ہو یا انسانوں میں سے",
+            "chinese": "他是属于精灵和人类的。",
+            "turkey": "De ki: İnsanlardan ve cinlerden ve insanların gönüllerine vesvese veren o sinsi vesvesecinin şerrinden insanların Tanrısı insanların Hükümranı ve insanların Rabbi olan Allah'a sığınırım"
+        }
+    ]
+}
